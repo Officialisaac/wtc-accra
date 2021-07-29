@@ -1,0 +1,266 @@
+
+                            <!-- .section-featured-page-grid -->
+<aside class="section section-services lite-background">
+                                <div class="container">
+                                    <div class="section-title-wrap">
+                                        <p class="section-top-subtitle">Core Services</p>
+                                        <h2 class="section-title">We are digital creative agency</h2>
+                                        <span class="divider"></span>
+                                        <p class="section-subtitle">Nullam vulputate lorem ut leo. Sed volutpat. Etiam non pede. Nullam et mauris. Praesent sed elit. Nulla posuere. Etiam sit amet turpis. Nullam mattis libero non </p>
+                                    </div>
+                                    <!-- .section-title-wrap -->
+                                    <div class="service-block-list">
+                                        <div class="inner-wrapper">
+                                            <div class="col-grid-4 service-block-item">
+                                                <div class="service-block-inner box-shadow-block">
+                                                    <a class="service-icon" href="#"><i class="icon-tools"></i></a>
+                                                    <div class="service-block-inner-content">
+                                                        <h3 class="service-item-title"><a href="#">Graphic Design</a></h3>
+                                                        <div class="service-block-item-excerpt">
+                                                            <p>Proin gravida nibh vel velit auctor Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,...</p>
+                                                            <a href="#" class="more-link">Know More</a>
+                                                        </div>
+                                                        <!-- .service-block-item-excerpt -->
+                                                    </div>
+                                                    <!-- .service-block-inner-content -->
+                                                </div>
+                                                <!-- .service-block-inner -->
+                                            </div>
+                                            <!-- .service-block-item -->
+                                            <div class="col-grid-4 service-block-item">
+                                                <div class="service-block-inner box-shadow-block">
+                                                    <a class="service-icon" href="#"><i class="icon-mobile"></i></a>
+                                                    <div class="service-block-inner-content">
+                                                        <h3 class="service-item-title"><a href="#">Strategy Solutons</a> </h3>
+                                                        <div class="service-block-item-excerpt">
+                                                            <p>Proin gravida nibh vel velit auctor Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,...</p>
+                                                            <a href="#" class="more-link">Know More</a>
+                                                        </div>
+                                                        <!-- .service-block-item-excerpt -->
+                                                    </div>
+                                                    <!-- .service-block-inner-content -->
+                                                </div>
+                                                <!-- .service-block-inner -->
+                                            </div>
+                                            <!-- .service-block-item -->
+                                            <div class="col-grid-4 service-block-item">
+                                                <div class="service-block-inner box-shadow-block">
+                                                    <a class="service-icon" href="#"><i class="icon-clipboard"></i></a>
+                                                    <div class="service-block-inner-content">
+                                                        <h3 class="service-item-title"><a href="#">Didicated Support</a> </h3>
+                                                        <div class="service-block-item-excerpt">
+                                                            <p>Proin gravida nibh vel velit auctor Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,...</p>
+                                                            <a href="#" class="more-link">Know More</a>
+                                                        </div>
+                                                        <!-- .service-block-item-excerpt -->
+                                                    </div>
+                                                    <!-- .service-block-inner-content -->
+                                                </div>
+                                                <!-- .service-block-inner -->
+                                            </div>
+                                            <!-- .service-block-item -->
+                                            <div class="col-grid-4 service-block-item">
+                                                <div class="service-block-inner box-shadow-block">
+                                                    <a class="service-icon" href="#"><i class="icon-strategy"></i></a>
+                                                    <div class="service-block-inner-content">
+                                                        <h3 class="service-item-title"><a href="#">Analystics</a> </h3>
+                                                        <div class="service-block-item-excerpt">
+                                                            <p>Proin gravida nibh vel velit auctor Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,...</p>
+                                                            <a href="#" class="more-link">Know More</a>
+                                                        </div>
+                                                        <!-- .service-block-item-excerpt -->
+                                                    </div>
+                                                    <!-- .service-block-inner-content -->
+                                                </div>
+                                                <!-- .service-block-inner -->
+                                            </div>
+                                            <!-- .service-block-item -->
+                                            <div class="col-grid-4 service-block-item">
+                                                <div class="service-block-inner box-shadow-block">
+                                                    <a class="service-icon" href="#"><i class="icon-lightbulb"></i></a>
+                                                    <div class="service-block-inner-content">
+                                                        <h3 class="service-item-title"><a href="#">Mailchimp Ready</a> </h3>
+                                                        <div class="service-block-item-excerpt">
+                                                            <p>Proin gravida nibh vel velit auctor Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,...</p>
+                                                            <a href="#" class="more-link">Know More</a>
+                                                        </div>
+                                                        <!-- .service-block-item-excerpt -->
+                                                    </div>
+                                                    <!-- .service-block-inner-content -->
+                                                </div>
+                                                <!-- .service-block-inner -->
+                                            </div>
+                                            <!-- .service-block-item -->
+                                            <div class="col-grid-4 service-block-item service-item-6">
+                                                <div class="service-block-inner box-shadow-block">
+                                                    <a class="service-icon" href="#"><i class="icon-globe"></i></a>
+                                                    <div class="service-block-inner-content">
+                                                        <h3 class="service-item-title"><a href="#">Digital Design</a> </h3>
+                                                        <div class="service-block-item-excerpt">
+                                                            <p>Proin gravida nibh vel velit auctor Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,...</p>
+                                                            <a href="#" class="more-link">Know More</a>
+                                                        </div>
+                                                        <!-- .service-block-item-excerpt -->
+                                                    </div>
+                                                    <!-- .service-block-inner-content -->
+                                                </div>
+                                                <!-- .service-block-inner -->
+                                            </div>
+                                            <!-- .service-block-item -->
+                                        </div>
+                                        <!-- .inner-wrapper -->
+                                    </div>
+                                    <!-- .service-block-list -->
+                                </div>
+                                <!-- .container -->
+                            </aside>
+                            <!-- .section section-services -->
+                            <aside class="section section-associate-logo">
+                                <div class="container">
+                                    <div class="section-title-wrap">
+                                        <p class="section-top-subtitle">Happy Clients</p>
+                                        <h2 class="section-title">Trusted by Thousands</h2>
+                                        <span class="divider"></span>
+                                        <p class="section-subtitle">Nullam vulputate lorem ut leo. Sed volutpat. Etiam non pede. Nullam et mauris. Praesent sed elit. Nulla posuere. Etiam sit amet turpis. Nullam mattis libero non </p>
+                                    </div>
+                                    <!-- .section-title-wrap -->
+                                    <div class="associate-logo-section associate-logo-col-6">
+                                        <div class="inner-wrapper">
+                                            <div class="associate-logo-item">
+                                                <a href="#"><img alt="Associate Logo" src="images/client-logo/client-new-1.png"></a>
+                                            </div>
+                                            <!-- .plan-item  -->
+                                            <div class="associate-logo-item">
+                                                <a href="#"><img alt="Associate Logo" src="images/client-logo/client-new-2.png"></a>
+                                            </div>
+                                            <!-- .plan-item  -->
+                                            <div class="associate-logo-item">
+                                                <a href="#"><img alt="Associate Logo" src="images/client-logo/client-new-3.png"></a>
+                                            </div>
+                                            <!-- .plan-item  -->
+                                            <div class="associate-logo-item">
+                                                <a href="#"><img alt="Associate Logo" src="images/client-logo/client-new-4.png"></a>
+                                            </div>
+                                            <!-- .plan-item  -->
+                                            <div class="associate-logo-item">
+                                                <a href="#"><img alt="Associate Logo" src="images/client-logo/client-new-5.png"></a>
+                                            </div>
+                                            <!-- .plan-item  -->
+                                            <div class="associate-logo-item">
+                                                <a href="#"><img alt="Associate Logo" src="images/client-logo/client-new-6.png"></a>
+                                            </div>
+                                            <!-- .plan-item  -->
+                                        </div>
+                                        <!-- .inner-wrapper -->
+                                    </div>
+                                    <!-- .plan-section -->
+                                </div>
+                                <!-- .container -->
+                            </aside>
+                            <!-- .section associate-logo -->
+
+
+
+
+                                    <!-- .service-block-item -->
+                                    <div class="service-block-list">
+                                        <div class="inner-wrapper">
+                                            <div class="col-grid-4 service-block-item">
+                                                <div class="service-block-inner box-shadow-block">
+                                                    <a class="service-icon" href="#"><i class="icon-tools"></i></a>
+                                                    <div class="service-block-inner-content">
+                                                        <h3 class="service-item-title"><a href="#">Graphic Design</a></h3>
+                                                        <div class="service-block-item-excerpt">
+                                                            <p>Proin gravida nibh vel velit auctor Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,...</p>
+                                                            <a href="#" class="more-link">Know More</a>
+                                                        </div>
+                                                        <!-- .service-block-item-excerpt -->
+                                                    </div>
+                                                    <!-- .service-block-inner-content -->
+                                                </div>
+                                                <!-- .service-block-inner -->
+                                            </div>
+                                            <!-- .service-block-item -->
+                                            <div class="col-grid-4 service-block-item">
+                                                <div class="service-block-inner box-shadow-block">
+                                                    <a class="service-icon" href="#"><i class="icon-mobile"></i></a>
+                                                    <div class="service-block-inner-content">
+                                                        <h3 class="service-item-title"><a href="#">Strategy Solutons</a> </h3>
+                                                        <div class="service-block-item-excerpt">
+                                                            <p>Proin gravida nibh vel velit auctor Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,...</p>
+                                                            <a href="#" class="more-link">Know More</a>
+                                                        </div>
+                                                        <!-- .service-block-item-excerpt -->
+                                                    </div>
+                                                    <!-- .service-block-inner-content -->
+                                                </div>
+                                                <!-- .service-block-inner -->
+                                            </div>
+                                            <!-- .service-block-item -->
+                                            <div class="col-grid-4 service-block-item">
+                                                <div class="service-block-inner box-shadow-block">
+                                                    <a class="service-icon" href="#"><i class="icon-clipboard"></i></a>
+                                                    <div class="service-block-inner-content">
+                                                        <h3 class="service-item-title"><a href="#">Didicated Support</a> </h3>
+                                                        <div class="service-block-item-excerpt">
+                                                            <p>Proin gravida nibh vel velit auctor Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,...</p>
+                                                            <a href="#" class="more-link">Know More</a>
+                                                        </div>
+                                                        <!-- .service-block-item-excerpt -->
+                                                    </div>
+                                                    <!-- .service-block-inner-content -->
+                                                </div>
+                                                <!-- .service-block-inner -->
+                                            </div>
+                                            <!-- .service-block-item -->
+                                            <div class="col-grid-4 service-block-item">
+                                                <div class="service-block-inner box-shadow-block">
+                                                    <a class="service-icon" href="#"><i class="icon-strategy"></i></a>
+                                                    <div class="service-block-inner-content">
+                                                        <h3 class="service-item-title"><a href="#">Analystics</a> </h3>
+                                                        <div class="service-block-item-excerpt">
+                                                            <p>Proin gravida nibh vel velit auctor Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,...</p>
+                                                            <a href="#" class="more-link">Know More</a>
+                                                        </div>
+                                                        <!-- .service-block-item-excerpt -->
+                                                    </div>
+                                                    <!-- .service-block-inner-content -->
+                                                </div>
+                                                <!-- .service-block-inner -->
+                                            </div>
+                                            <!-- .service-block-item -->
+                                            <div class="col-grid-4 service-block-item">
+                                                <div class="service-block-inner box-shadow-block">
+                                                    <a class="service-icon" href="#"><i class="icon-lightbulb"></i></a>
+                                                    <div class="service-block-inner-content">
+                                                        <h3 class="service-item-title"><a href="#">Mailchimp Ready</a> </h3>
+                                                        <div class="service-block-item-excerpt">
+                                                            <p>Proin gravida nibh vel velit auctor Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,...</p>
+                                                            <a href="#" class="more-link">Know More</a>
+                                                        </div>
+                                                        <!-- .service-block-item-excerpt -->
+                                                    </div>
+                                                    <!-- .service-block-inner-content -->
+                                                </div>
+                                                <!-- .service-block-inner -->
+                                            </div>
+                                            <!-- .service-block-item -->
+                                            <div class="col-grid-4 service-block-item service-item-6">
+                                                <div class="service-block-inner box-shadow-block">
+                                                    <a class="service-icon" href="#"><i class="icon-globe"></i></a>
+                                                    <div class="service-block-inner-content">
+                                                        <h3 class="service-item-title"><a href="#">Digital Design</a> </h3>
+                                                        <div class="service-block-item-excerpt">
+                                                            <p>Proin gravida nibh vel velit auctor Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,...</p>
+                                                            <a href="#" class="more-link">Know More</a>
+                                                        </div>
+                                                        <!-- .service-block-item-excerpt -->
+                                                    </div>
+                                                    <!-- .service-block-inner-content -->
+                                                </div>
+                                                <!-- .service-block-inner -->
+                                            </div>
+                                            <!-- .service-block-item -->
+                                        </div>
+                                        <!-- .inner-wrapper -->
+                                    </div>
