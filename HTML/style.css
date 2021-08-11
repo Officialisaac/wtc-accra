@@ -1,8 +1,8 @@
     /*
-Template Name: Biz Lina
+Template Name: WTC
 Template URI:
-Author URI: Anil Basnet
-Description:Biz Lina is clean, responsive, modern and feature rich multi-purpose Business HTML template. It is an ultimate flexible template with loads of useful options and features. You can create high-quality websites for business companies of any scale using this HTML without changing a single structure. This HTML template is ideal for business, portfolio, digital agencies and general corporate websites development. It is fully responsive and renders perfectly on any device. Additionally, this template comes with full width easy to use slider, multiple home and blog layouts, full-width layouts, color options and more. Images used in the demo is just for demonstration purpose. Those images are not bundled in the zip.
+Author URI: Boogiemonk
+Description:WTC is clean, responsive, modern and feature rich multi-purpose Business HTML template. It is an ultimate flexible template with loads of useful options and features. You can create high-quality websites for business companies of any scale using this HTML without changing a single structure. This HTML template is ideal for business, portfolio, digital agencies and general corporate websites development. It is fully responsive and renders perfectly on any device. Additionally, this template comes with full width easy to use slider, multiple home and blog layouts, full-width layouts, color options and more. Images used in the demo is just for demonstration purpose. Those images are not bundled in the zip.
 Version: 1.0.1
 Primary use: Business / Corporate
 */
@@ -996,9 +996,13 @@ Primary use: Business / Corporate
         color: #158CB5;
     }
     
-    .corona-button:hover {
-        color: #ffffff;
-        background-color: darkblue;
+    .speaker-button {
+        border: 3px #158CB5;
+        background-color: #158CB5;
+        text-align: center;
+        padding: 3px;
+        font-size: xx-large;
+        color: white;
     }
     
     .overlay-enabled .custom-button:hover,
